@@ -6,7 +6,7 @@ export const foes: Foe[] = [
     id: 'TheStorm',
     expansion: 'TC',
     charges: 4,
-    abilityName: 'Paralyzing Rout',
+    abilityName: 'Paralyzing Bolt',
     abilityEffect: `
       The player with the most prepped spells gains a Shock, places it into their hand,
       and suffers 1 damage for each of their prepped spells.
